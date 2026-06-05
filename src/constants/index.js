@@ -20,6 +20,7 @@ import {
   tesla,
   shopify,
   store,
+  hospital,
   jobit,
   tripguide,
   threejs,
@@ -217,6 +218,27 @@ const projects = [
     ],
     image: store,
     source_code_link: "https://zenith-store.netlify.app/",
+  },
+  {
+    name: "Hospital Management System",
+    description:
+      "Comprehensive software solution for managing hospital operations, including patient records, appointment scheduling, and medical inventory management.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "appwrite",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: hospital,
+    source_code_link: "https://healthylifing.netlify.app",
   },
   {
     name: "Front-end Store",
