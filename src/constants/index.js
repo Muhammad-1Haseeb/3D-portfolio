@@ -20,7 +20,6 @@ import {
   tesla,
   shopify,
   store,
-  hospital,
   jobit,
   tripguide,
   threejs,
@@ -237,7 +236,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: hospital,
+    image: "/one.png",
     source_code_link: "https://healthylifing.netlify.app",
   },
   {

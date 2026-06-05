@@ -27,7 +27,6 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
 import store from "./store.png";
-import hospital from "./hospital.svg";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -58,7 +57,6 @@ export {
   starbucks,
   tesla,
   store,
-  hospital,
   jobit,
   tripguide,
 };
